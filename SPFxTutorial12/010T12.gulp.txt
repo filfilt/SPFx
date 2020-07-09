@@ -1,0 +1,3 @@
+gulp bundle
+
+gulp package-solution

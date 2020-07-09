@@ -1,0 +1,1 @@
+sharepoint folder => in it assets folder =>in it elements.xml and schema.xml files

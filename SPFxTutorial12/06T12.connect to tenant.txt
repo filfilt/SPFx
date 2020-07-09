@@ -1,0 +1,19 @@
+explorer and then
+
+reveal asset-deployment-webpart.sppkg
+
+Drod&Drap
+ 
+ to 
+
+https://negatm.sharepoint.com/sites/nega/AppCatalog/Forms/AllItems.aspx
+
+     or
+AppCatalog
+
+and go to group site 
+content site 
+New App
+and check eithe it is active then 
+
+open SPFx List

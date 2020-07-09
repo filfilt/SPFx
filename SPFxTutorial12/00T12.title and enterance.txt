@@ -1,0 +1,19 @@
+asset-deployment-webpart
+
+yo @microsoft/sharepoint
+
+No
+
+No
+
+
+
+What is your Web part name?: AssetDeployment
+
+description:   AssetDeployment web part
+
+ No javaScript
+
+
+
+code .
