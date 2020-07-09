@@ -1,0 +1,19 @@
+go to outlook page and open one message
+
+left ellipse
+
+Get-Add-ins
+
+my Add-ins
+
+Add custom add-ins
+
+Add from file
+
+take Url of 
+D:\SPFx\Tuto9.outlook-add-in\outlook-add-in\officeAddin
+
+and paste Add-ins file Name
+
+click on the link
+

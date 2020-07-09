@@ -1,0 +1,10 @@
+outlook-add-in
+
+yo @microsoft/sharepoint --plusbeta
+
+yes 
+
+No
+
+npm install @types/office-js                         --save-dev
+
