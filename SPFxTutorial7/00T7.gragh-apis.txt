@@ -1,0 +1,13 @@
+1. md graph-apis
+2. cd graph-apis
+
+3. yo @microsoft/sharepoint
+
+yes
+
+no
+
+...
+ 
+code .
+npm install @microsoft/microsoft-graph-types

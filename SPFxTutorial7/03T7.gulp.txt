@@ -1,0 +1,6 @@
+gulp bundle --ship
+
+gulp package-solution --ship
+
+under: sharepoint/solution
+ releal in Explorer  gragh-apis.sppkg
