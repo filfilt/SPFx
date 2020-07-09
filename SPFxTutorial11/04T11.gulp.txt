@@ -1,0 +1,5 @@
+gulp serve
+
+and 
+
+open the picture

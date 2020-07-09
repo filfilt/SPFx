@@ -1,0 +1,18 @@
+download an image 
+
+by using 
+avatar-kat.png
+icon-ppt.png
+document-preview.png
+
+or 
+
+download ur own png photos and change inside rul
+
+and pend it 
+
+then paste like the following link
+
+D:\SPFx\Tuto11.documentcardexample-webpart\
+documentcardexample-webpart\src
+\webparts\documentCardExample\components

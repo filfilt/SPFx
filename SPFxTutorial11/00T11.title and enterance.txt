@@ -1,0 +1,19 @@
+documentcardexample-webpart
+
+yo @microsoft/sharepoint
+
+yes
+
+No
+
+
+
+What is your Web part name?: DocumentCardExample
+
+description:  DocumentCardExample description
+
+ instead of javaScript
+React
+
+
+code .
