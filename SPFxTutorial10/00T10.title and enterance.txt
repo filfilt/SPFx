@@ -1,0 +1,25 @@
+jquery-webpart
+
+yo @microsoft/sharepoint
+
+No
+
+No
+
+
+
+What is your Web part name?: jQuery 
+
+description:  jquery webpart
+
+
+
+npm install jquery@2
+
+npm install jqueryui
+
+npm install @types/jquery@2              --save-dev
+
+npm install @types/jqueryui
+
+code .
