@@ -1,0 +1,23 @@
+Connect-SPOService -Url https://contoso-admin.sharepoint.com
+instead
+
+
+Connect-SPOService -Url https://negatm-admin.sharepoint.com
+
+sign in
+
+Get-SPOSite
+
+Get-SPOTenantCdnEnabled -CdnType Public
+Get-SPOTenantCdnOrigins -CdnType Public
+
+Set-SPOTenantCdnEnabled -CdnType Public
+ Yes
+
+Get-SPOTenantCdnOrigins -CdnType Public
+
+cd .fileName
+
+gulp bundle --ship
+
+gulp package-solution --ship

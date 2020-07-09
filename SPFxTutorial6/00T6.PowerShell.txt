@@ -1,0 +1,5 @@
+https://www.powershellgallery.com/packages/Microsoft.Online.SharePoint.PowerShell/16.0.20122.12000
+16.0.20122... (current version)	21,835	a month ago
+Install-Module -Name Microsoft.Online.SharePoint.PowerShell
+A
+Exit
